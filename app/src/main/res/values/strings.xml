@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">Turni Pulizie LT.14</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_compose">Composizione</string>
+    <string name="country_prompt">Scegli nome</string>
+    <string name="hint_title">nome nota</string>
+    <string name="hint_content">nota</string>
+    <string name="hint_content2">altro</string>
+    <string name="default_title">Titolo</string>
+    <string name="default_content">vuoto</string>
+    <string name="extra_note_id">com.gbsoft.giubotta.pulizie.NOTE_ID</string>
+    <string name="action_compose">Compose</string>
+    <string name="action_discard_item">Discard</string>
+    <string name="info">click to EDIT</string>
+
+    <string name="MIA_Stringa">&amp;&#8482;</string>
+
+    <string-array name="nomiA">
+        <item>BOTTA</item>
+        <item>MONTALTO</item>
+        <item>SANTALUCIA</item>
+        <item>PRESTIGIACOMO</item>
+        <item>FERNICOLA</item>
+        <item>MARTINO</item>
+        <item>CANE</item>
+        <item>FABBRICATORE</item>
+        <item>BUFALINO</item>
+        <item>SHIFANO</item>
+        <item>REPETTO</item>
+        <item>INCORVAIA</item>
+    </string-array>
+
+    <string-array name="nomiB">
+        <item>SOARES</item>
+        <item>DATO</item>
+        <item>EL MALIANY</item>
+        <item>REVVA</item>
+        <item>BASILE</item>
+        <item>BOVALLAGA</item>
+        <item>CAMPANALE</item>
+        <item>MERCURIO</item>
+        <item>RITROVATO</item>
+        <item>NANTELE</item>
+        <item>MURVANA</item>
+        <item>NIGLIATO</item>
+    </string-array>
+
+    <string-array name="nomiCortile">
+        <item>BOTTA</item>
+        <item>MONTALTO</item>
+        <item>SANTALUCIA</item>
+        <item>PRESTIGIACOMO</item>
+        <item>FERNICOLA</item>
+        <item>MARTINO</item>
+        <item>CANE</item>
+        <item>MARMO</item>
+        <item>BUFALINO</item>
+        <item>SHIFANO</item>
+        <item>REPETTO</item>
+        <item>INCORVAIA</item>
+        <item>SOARES</item>
+        <item>DATO</item>
+        <item>EL MALIANY</item>
+        <item>REVVA</item>
+        <item>BASILE</item>
+        <item>BOVALLAGA</item>
+        <item>CAMPANALE</item>
+        <item>MERCURIO</item>
+        <item>RITROVATO</item>
+        <item>NANTELE</item>
+        <item>MURVANA</item>
+        <item>NIGLIATO</item>
+    </string-array>
+
+    <string-array name="nomiBox">
+        <item>NANTELE</item>
+        <item>MARMO</item>
+        <item>MARTINO</item>
+        <item>BOTTA</item>
+        <item>DATO</item>
+        <item>BUFALINO</item>
+        <item>SANTALUCIA</item>
+        <item>INCORVAIA</item>
+        <item>Vuoto</item>
+        <item>Vuoto</item>
+    </string-array>
+
+    <string-array name="mesi">
+        <item>Gennaio</item>
+        <item>Febbraio</item>
+        <item>Marzo</item>
+        <item>Aprile</item>
+        <item>Maggio</item>
+        <item>Giugno</item>
+        <item>Luglio</item>
+        <item>Agosto</item>
+        <item>Settembre</item>
+        <item>Ottobre</item>
+        <item>Novembre</item>
+        <item>Dicembre</item>
+    </string-array>
+
+    <string-array name="giorni">
+        <item>Martedi</item>
+        <item>Venerdi</item>
+        <item>Sabato</item>
+    </string-array>
+
+</resources>
